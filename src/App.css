@@ -27,6 +27,12 @@
 .App-link {
   color: #61dafb;
 }
+.ticket{
+  border:solid blue;
+  margin: 1em;
+  /* height: 140px; */
+  /* width:90px; */
+}
 
 @keyframes App-logo-spin {
   from {
